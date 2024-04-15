@@ -1,0 +1,16 @@
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\bin\Debug\net8.0-windows\nameFormatterApplication.exe
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\bin\Debug\net8.0-windows\nameFormatterApplication.deps.json
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\bin\Debug\net8.0-windows\nameFormatterApplication.runtimeconfig.json
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\bin\Debug\net8.0-windows\nameFormatterApplication.dll
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\bin\Debug\net8.0-windows\nameFormatterApplication.pdb
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\nameFormatterApplication.csproj.GenerateResource.cache
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\nameFormatterApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\nameFormatterApplication.AssemblyInfoInputs.cache
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\nameFormatterApplication.AssemblyInfo.cs
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\nameFormatterApplication.csproj.CoreCompileInputs.cache
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\nameFormatterApplication.dll
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\refint\nameFormatterApplication.dll
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\nameFormatterApplication.pdb
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\nameFormatterApplication.genruntimeconfig.cache
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\ref\nameFormatterApplication.dll
+C:\Users\kaden\source\repos\nameFormatterApplication\nameFormatterApplication\obj\Debug\net8.0-windows\nameFormatterApplication.nameFormatterApplication.resources
